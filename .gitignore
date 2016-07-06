@@ -1,0 +1,13 @@
+.DS_Store
+.monitor
+.env
+node_modules/*
+node_modules
+npm-debug.log
+crash.log
+config.json
+errors.dump
+logs.dump
+.vagrant
+*.log
+fb-token.json

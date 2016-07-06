@@ -1,0 +1,12 @@
+{
+  "name": "runtastic_to_bit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "latest",
+    "fitbit-oauth2": "latest",
+    "async": "latest"
+  }
+}
